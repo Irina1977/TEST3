@@ -14,6 +14,8 @@ namespace My
 
             Console.WriteLine(" привет   ");
 
+            Console.WriteLine(" привет   ");
+
 
         }
     }
