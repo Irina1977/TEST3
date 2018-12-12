@@ -10,8 +10,11 @@ namespace My
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" GitHub");
-            
+            Console.WriteLine(" привет   ");
+
+            Console.WriteLine(" привет   ");
+
+
         }
     }
     }
