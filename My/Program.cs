@@ -10,7 +10,7 @@ namespace My
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HELLO, GitHub");
+            Console.WriteLine("ПРивет GitHub");
             //Console.WriteLine("Проверка изменений на сервере");
            // Console.WriteLine("Проверка ");
         }
